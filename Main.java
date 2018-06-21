@@ -42,7 +42,7 @@ public class Main {
             System.out.println("Enter your programmer string");
             programmerString = user_input.nextLine();
             int score = ProgrammerString.programmerStrings(programmerString);
-            System.out.println("Number of indices inbetween : " + score);
+            System.out.println("Number of indices in-between : " + score);
         }
     }
 }
